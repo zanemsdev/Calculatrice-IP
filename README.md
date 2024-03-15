@@ -2,6 +2,9 @@
 
 Une calculatrice permetant de Calculer plusieurs information en donnant une adresse IP et un Masque
 
+Ce repositorie été créé dans le cadre de nos cours.
+
+
 ## Features
 
 - Calculer Adresse Réseaux

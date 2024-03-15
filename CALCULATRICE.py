@@ -55,3 +55,22 @@ else:
     
     #Le Nombre d'Adresse Dispo
     print("Adresse Dispo : ", pow(2, 32-len(bitUP))-2 )
+
+    #Classe de l'adresse IP
+    def determiner_classe(ip):
+        premier_octet = int(ip.split('.')[0])
+        if 1 <= premier_octet <= 126:
+            return 'A'
+        elif 128 <= premier_octet <= 191:
+            return 'B'
+        elif 192 <= premier_octet <= 223:
+            return 'C'
+        elif 224 <= premier_octet <= 239:
+            return 'D'
+        elif 240 <= premier_octet <= 255:
+            return 'E'
+        else:
+            return 'Adresse IP non valide'
+
+    classe = determiner_classe(ip)
+    print("Classe de l'adresse IP : ", classe)

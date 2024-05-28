@@ -17,7 +17,7 @@ Ce repositorie été créé dans le cadre de nos cours.
 
 ## Screenshots
 
-![App Screenshot](https://cdn.discordapp.com/attachments/1173540527103287328/1218188050094624859/image.png?ex=6606c107&is=65f44c07&hm=5d61b11e5a875b3788f3f8acf30607262af5150638611afe5ea0258820855c43&)
+![App Screenshot](https://i.ibb.co/12SG10L/Capture-d-e-cran-2024-05-28-a-15-13-15.png)
 
 ## Authors
 

@@ -28,6 +28,3 @@ Ce repositorie été créé dans le cadre de nos cours.
 
 Pour de l'aide vous pouvez me contacter a contact@remy-chevalier.fr
 
-## Supporte Me
-
-- [Buymeacoffee](https://www.buymeacoffee.com/rchevalier)
